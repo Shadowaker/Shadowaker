@@ -2,7 +2,7 @@
 
 ### General Kenobi 🤖
 
-[![dridolfo's 42 stats](https://badge.mediaplus.ma/greenbinary/dridolfo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!-- [![dridolfo's 42 stats](https://badge.mediaplus.ma/greenbinary/dridolfo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowaker&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
