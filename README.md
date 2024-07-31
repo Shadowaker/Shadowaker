@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-### General Kenobi 🤖
+### General Kenobi 🤖 
+![DAN](https://i.imgur.com/iKWSTlY.png)
 
 <!-- [![dridolfo's 42 stats](https://badge.mediaplus.ma/greenbinary/dridolfo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 
